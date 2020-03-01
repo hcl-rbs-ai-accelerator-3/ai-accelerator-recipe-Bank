@@ -1,0 +1,2 @@
+# ai-accelerator-recipe-Bank
+This use case helps to predict if a client subscribed a term deposit or not(yes/no). Dataset used for this case is Bank.csv. After necessary EDA using different plots to have proper understanding of data, classification models were built using Logistic Regression, SVC, KNeighborsClassifiers , RandomForestClassifier , etc. to predict the target variable &amp; then accuracy metrics were taken into consideration to see the model performance.
